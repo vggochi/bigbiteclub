@@ -1,0 +1,23 @@
+{
+    "name": "Big Bite Club",
+    "short_name": "Big Bite",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f6f4ee",
+    "theme_color": "#347dc8",
+    "description": "Cardápio digital Big Bite Club",
+    "icons": [
+        {
+            "src": "assets/images/logopwa.png",
+            "sizes": "192x192",
+            "type": "assets/images/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/images/logo512.png",
+            "sizes": "512x512",
+            "type": "assets/images/png",
+            "purpose": "any"
+        }
+    ]
+}
