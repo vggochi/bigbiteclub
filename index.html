@@ -462,7 +462,7 @@
         const modalTotalSpan = document.getElementById('modal-carrinho-total');
         //verifica se o carrinho ja tem itens salvos no localstorage
         function inicilarCarrinho() {
-            const carrinhoSalvo = localStorge.getItem('haruy_carrinho');
+            const carrinhoSalvo = localStorage.getItem('big bite_carrinho');
             if (carrinhoSalvo) {
                 //se existir algo salvo converte de volta para array e atualiza o carrinho
                 carrinho = JSON.parse(carrinhoSalvo);
