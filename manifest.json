@@ -10,13 +10,13 @@
         {
             "src": "assets/images/logopwa.png",
             "sizes": "192x192",
-            "type": "assets/images/png",
+            "type": "images/png",
             "purpose": "any"
         },
         {
             "src": "assets/images/logo512.png",
             "sizes": "512x512",
-            "type": "assets/images/png",
+            "type": "images/png",
             "purpose": "any"
         }
     ]
